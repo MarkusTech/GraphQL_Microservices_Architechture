@@ -6,6 +6,8 @@ import {
   ApolloFederationDriver,
   ApolloFederationDriverConfig,
 } from '@nestjs/apollo';
+import { ConfigService } from '@nestjs/config';
+import { JwtService } from '@nestjs/jwt';
 
 @Module({
   imports: [
@@ -17,6 +19,6 @@ import {
     }),
   ],
   controllers: [UsersController],
-  providers: [UsersService],
+  providers: [UsersService, ConfigService, JwtService],
 })
 export class UsersModule {}

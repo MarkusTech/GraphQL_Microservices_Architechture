@@ -1,4 +1,4 @@
-# CLI Documentation For team Because this is a microservices
+# CLI Documentation For Microservices Architecture
 
 # Servers monorepo setup
 

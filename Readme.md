@@ -1,7 +1,12 @@
-# CLI
+# CLI Documentation For team Because this is a microservices
+
+# Servers monorepo setup
 
 - nest new
 - nest g app - users
+
+# NPM Packages I will Use for Backend
+
 - npm i @apollo/gateway @apollo/subgraph @nestjs/apollo @nestjs/graphql graphql class-validator bcrypt @types/bcrypt
 - npm i express
 - npm i "@nestjs/config"

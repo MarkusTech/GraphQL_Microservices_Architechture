@@ -54,3 +54,6 @@ pids
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# https://www.youtube.com/watch?v=UxirFATvWTo&t=13s
+# 47:00

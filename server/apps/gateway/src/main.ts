@@ -6,6 +6,3 @@ async function bootstrap() {
   await app.listen(5000);
 }
 bootstrap();
-
-// https://www.youtube.com/watch?v=UxirFATvWTo&t=13s
-// 47:00

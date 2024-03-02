@@ -80,6 +80,6 @@ Nest is [MIT licensed](LICENSE).
 - wed     - ✓✓✓✓✓✓✓✓✓
 - thu     - ✓✓✓✓✓✓✓✓✓
 - fri     - ✓✓✓✓✓✓✓✓✓
-- sat     - ✓✓✓A✓✓✓✓
+- sat     - ✓✓✓A✓✓✓✓✓
 - sun     - ✓✓✓✓✓✓✓✓
 

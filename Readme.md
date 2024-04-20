@@ -17,4 +17,4 @@
 - npm run start:dev
 - npm run start:dev projectName
 - npm run start:dev gateway -sample
-- npm run start:deUpdate Backend
+- npm run start:d

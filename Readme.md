@@ -17,4 +17,3 @@
 - npm run start:dev
 - npm run start:dev projectName
 - npm run start:dev gateway -sample
--

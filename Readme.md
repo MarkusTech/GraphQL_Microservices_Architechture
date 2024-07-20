@@ -20,3 +20,4 @@
 
 
 -ctrl+shift+k = remove a line of code
+-ctrl+shift+ arrow = highlight the code want to copy

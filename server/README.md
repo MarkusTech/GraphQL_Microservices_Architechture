@@ -86,8 +86,8 @@ Nest is [MIT licensed](LICENSE).
 # 11-25-2024
 - mon     - ✓✓✓
 - tue     - ✓✓✓
-- wed     - ✓✓
-- thu     - ✓✓
+- wed     - ✓✓✓
+- thu     - ✓✓✓
 - fri     - ✓✓
 - sat     - ✓✓
 - sun     - ✓✓

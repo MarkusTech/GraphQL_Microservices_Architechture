@@ -18,6 +18,11 @@
 - npm run start:dev projectName
 - npm run start:dev gateway -sample
 
-
 -ctrl+shift+k = remove a line of code
 -ctrl+shift+ arrow = highlight the code want to copy
+
+pm2 restart daily-check-service
+pm2 logs daily-check-service
+pm2 list
+pm2 status
+pm2 stop daily-check-service

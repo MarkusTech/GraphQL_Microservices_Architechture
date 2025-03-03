@@ -1,6 +1,6 @@
 # Daily Check Log
 
-- mon -
+- mon - ✓
 - tue -
 - wed -
 - thu -
